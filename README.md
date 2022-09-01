@@ -4,4 +4,4 @@ NPM     : 2106750995
 
 Kelas   : F
 
-Hobby   : Makan
+Hobby   : Nonton
